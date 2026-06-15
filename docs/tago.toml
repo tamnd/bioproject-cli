@@ -1,0 +1,10 @@
+title       = "bioproject"
+baseURL     = "https://bioproject-cli.tamnd.com/"
+description = "A command line for bioproject."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/bioproject-cli"
